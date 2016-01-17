@@ -1,0 +1,29 @@
+{"frames": [
+
+{
+	"filename": "run00",
+	"frame": {"x":10,"y":0,"w":90,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":80},
+	"sourceSize": {"w":200,"h":80}
+},
+{
+	"filename": "run01",
+	"frame": {"x":110,"y":0,"w":90,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":80},
+	"sourceSize": {"w":200,"h":80}
+}
+],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "water_running.png",
+	"format": "RGBA8888",
+	"size": {"w":200,"h":80},
+	"scale": "0.2",
+	"smartupdate": "$TexturePacker:SmartUpdate:fb56f261b1eb04e3215824426595f64c$"
+}
+}

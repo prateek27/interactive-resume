@@ -1,0 +1,61 @@
+{"frames": [
+
+{
+	"filename": "run00",
+	"frame": {"x":0,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":252},
+	"sourceSize": {"w":56,"h":64}
+},
+{
+	"filename": "run01",
+	"frame": {"x":200,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":250},
+	"sourceSize": {"w":200,"h":250}
+},
+{
+	"filename": "run02",
+	"frame": {"x":400,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":252},
+	"sourceSize": {"w":200,"h":252}
+},
+{
+	"filename": "run00",
+	"frame": {"x":0,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":252},
+	"sourceSize": {"w":56,"h":64}
+},
+{
+	"filename": "run01",
+	"frame": {"x":200,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":250},
+	"sourceSize": {"w":200,"h":250}
+},
+{
+	"filename": "run02",
+	"frame": {"x":400,"y":0,"w":200,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":252},
+	"sourceSize": {"w":200,"h":252}
+}
+],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "hero_running.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":252},
+	"scale": "0.2",
+	"smartupdate": "$TexturePacker:SmartUpdate:fb56f261b1eb04e3215824426595f64c$"
+}
+}

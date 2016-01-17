@@ -1,0 +1,94 @@
+{"frames": [
+
+{
+	"filename": "run00",
+	"frame": {"x":0,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":44,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+
+{
+	"filename": "run00",
+	"frame": {"x":88,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":132,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":176,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":220,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":264,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":308,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":352,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+},
+{
+	"filename": "run00",
+	"frame": {"x":396,"y":0,"w":44,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":40},
+	"sourceSize": {"w":440,"h":40}
+}
+],
+"meta": {
+	"app": "http://www.prateeknarang.com",
+	"version": "1.0",
+	"image": "water_running.png",
+	"format": "RGBA8888",
+	"size": {"w":479,"h":240},
+	"scale": "0.2",
+	"smartupdate": "$TexturePacker:SmartUpdate:fb56f261b1eb04e3215824426595f64c$"
+}
+}
