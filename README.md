@@ -1,3 +1,3 @@
 # interactive-resume
 Interactive Resume of Prateek Narang
-URL:  www.prateeknarang.com/resume
+URL:  www.prateeknarang.com/
